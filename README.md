@@ -1,2 +1,2 @@
-# CI1016-T-cnicas-em-modelagem-de-aplica-es
+# CI1016-Tecnicas-em-modelagem-de-aplicacoes
 Implementação de um gerador de código de arquivos JSON
